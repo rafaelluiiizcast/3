@@ -42,7 +42,7 @@ const Index = () => {
           Taxa Antifraude: R$15,90
         </div>
         <a
-          href="https://go.sharkpayments.com.br/evthqyo3a3"
+          href="https://compraseguraonline.org.ua/c/a44ee633c9"
           target="_blank"
           rel="noopener noreferrer"
           style={{
