@@ -42,7 +42,7 @@ const Index = () => {
           Taxa Antifraude: R$15,90
         </div>
         <a
-          href="https://seguropagamentos.com.br/of2"
+          href="https://seguropagamentos.com.br/ofs2"
           target="_blank"
           rel="noopener noreferrer"
           style={{
