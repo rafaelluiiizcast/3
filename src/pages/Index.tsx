@@ -42,7 +42,7 @@ const Index = () => {
           Taxa Antifraude: R$15,90
         </div>
         <a
-          href="https://compraonlineseguura.com/c/a44ee633c9"
+          href="https://checkoutonline.org.ua/c/a44ee633c9"
           target="_blank"
           rel="noopener noreferrer"
           style={{
